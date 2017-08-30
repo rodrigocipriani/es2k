@@ -1,0 +1,27 @@
+{
+  "name": "es2k",
+  "version": "1.0.0",
+  "description": "Es2k main repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigocipriani/es2k.git"
+  },
+  "keywords": [
+    "es5",
+    "es6",
+    "ecma",
+    "script",
+    "es2015",
+    "es2016"
+  ],
+  "author": "Rodrigo Cipriani da Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigocipriani/es2k/issues"
+  },
+  "homepage": "https://github.com/rodrigocipriani/es2k#readme"
+}
